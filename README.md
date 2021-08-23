@@ -10,13 +10,11 @@
 
 - 🤝 I’m looking for help with **Sundarban Lab**
 
-- 👨‍💻 All of my projects are available at [https://anikchowdhury.net/](https://anikchowdhury.net/)
-
 - 💬 Ask me about **JavaScript,React,React Native,Node.Js, MongoDB**
 
 - 📫 How to reach me **anikchowdhurydev@gmail.com**
 
-- 📄 Know about my experiences [https://anikchowdhury.net/](https://anikchowdhury.net/)
+- 📄 Know about my experiences [https://semiclone.com/](https://semiclone.com/)
 
 - ⚡ Fun fact **I think I'm a lazy developer but quick learner.**
 
